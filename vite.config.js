@@ -4,11 +4,8 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   plugins: [tailwindcss(), react()],
-  base: "/", // Ensures correct asset paths
+  base: "./", // Ensures correct asset paths
   build: {
     outDir: "dist",
-  },
-  server: {
-    historyApiFallback: true, // Fix refresh issue in dev
   },
 });

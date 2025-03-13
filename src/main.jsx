@@ -2,7 +2,7 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./index.css";
 import "./Styles/Global.css"
-import App from "./Components/Routes/App.jsx";
+import App from "./Components/Routes/App";
 //import react slick styles
 import "./Styles/Slick.css";
 import ProductFetchProvider from "./API/ProductFetch";
