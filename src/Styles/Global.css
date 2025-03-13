@@ -1,0 +1,125 @@
+@keyframes Fadein {
+  0% {
+    transform: rotate(100deg);
+    scale: 10%;
+  }
+  5% {
+    transform: rotate(95deg);
+    scale: 15%;
+  }
+  10% {
+    transform: rotate(90deg);
+    scale: 20%;
+  }
+  15% {
+    transform: rotate(85deg);
+  }
+  20% {
+    transform: rotate(80deg);
+    scale: 25%;
+  }
+  25% {
+    transform: rotate(50deg);
+    scale: 30%;
+  }
+  30% {
+    transform: rotate(40deg);
+  }
+  35% {
+    transform: rotate(30deg);
+  }
+  40% {
+    transform: rotate(20deg);
+  }
+  45% {
+    transform: rotate(10deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+}
+
+.Fadein {
+  animation: Fadein 1s ease-in forwards;
+}
+
+
+
+@keyframes CarIn {
+  0% {
+    scale: 10%
+  }
+  10%{
+    scale: 20%;
+  }
+  20%{
+    scale: 30%;
+  }
+  30%{
+    scale:40%;
+  }
+  40%{
+    scale:50%;
+  }
+  50%{
+    scale:60%;
+  }
+  60%{
+    scale:70%;
+  }
+  70%{
+    scale:80%;
+  }
+  80%{
+    scale:90%;
+  }
+  90%, 100%{
+    scale:100%;
+  }
+
+
+  
+}
+
+.CarIn {
+  animation: CarIn 1s ease-in forwards;
+
+}
+
+@keyframes ProductListIn {
+  0% {
+    scale: 10%
+  }
+  10%{
+    scale: 20%;
+  }
+  20%{
+    scale: 30%;
+  }
+  30%{
+    scale:40%;
+  }
+  40%{
+    scale:50%;
+  }
+  50%{
+    scale:60%;
+  }
+  60%{
+    scale:70%;
+  }
+  70%{
+    scale:80%;
+  }
+  80%{
+    scale:90%;
+  }
+  90%, 100%{
+    scale:100%;
+  }
+}
+
+.ProductListIn {
+  animation: ProductListIn 1s ease-in forwards
+}
+

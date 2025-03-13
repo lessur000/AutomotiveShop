@@ -1,0 +1,187 @@
+{
+  "Accessories": [
+    {
+      "id": 101,
+      "name": "Bulb",
+      "category": "Accessories",
+      "description": "Car bulbs are lights used in vehicles for safety and visibility. There are many different types of car bulbs, including halogen, LED, xenon, and laser.",
+      "image": "../images/Accessories/bulb.jpg",
+      "price": 3000
+    },
+    {
+      "id": 102,
+      "name": "Dashcam",
+      "category": "Accessories",
+      "description": "A dashcam is a small camera that records your car's surroundings while you drive",
+      "image": "../images/Accessories/Dashcam.jpg",
+      "price": 5300
+    },
+    {
+      "id": 103,
+      "name": "Mats",
+      "category": "Accessories",
+      "description": "Car mats are accessories that protect the floor of a vehicle from dirt, noise, and corrosion",
+      "image": "../images/Accessories/Mats.jpg",
+      "price": 6020
+    },
+    {
+      "id": 104,
+      "name": "Seat Cover",
+      "category": "Accessories",
+      "description": "A car seat cover is a protective material that fits over a vehicle's existing seats.",
+      "image": "../images/Accessories/SeatCover.jpg",
+      "price": 8500
+    },
+    {
+      "id": 105,
+      "name": "Side Mirror",
+      "category": "Accessories",
+      "description": "A side mirror, also known as a door mirror or wing mirror, is a mirror on the outside of a car that helps the driver see behind and to the sides of the vehicle. ",
+      "image": "../images/Accessories/SideMirror.jpg",
+      "price": 1300
+    },
+    {
+      "id": 106,
+      "name": "Steering Wheel Cover",
+      "category": "Accessories",
+      "description": "A steering wheel cover is an accessory you can buy to make driving more comfortable, protect your factory-issued steering wheel, or cover up blemishes, rips, or tears",
+      "image": "../images/Accessories/WheelCover.jpg",
+      "price": 300
+    }
+  ],
+
+  "Engine": [
+    {
+      "id": 101,
+      "name": "CamShaft",
+      "category": "Engine",
+      "description": "A camshaft is a rod with cams that controls the opening and closing of valves in a car engine.",
+      "image": "../images/Engine/CamShaft.jpg",
+      "price": 13000
+    },
+    {
+      "id": 102,
+      "name": "Engine Cylinder",
+      "category": "Engine",
+      "description": "A car engine cylinder head is the uppermost part of the engine block, acting as a cover that houses critical components like the intake and exhaust valves, spark plugs, and combustion chambers",
+      "image": "../images/Engine/EngineCylinderHead.jpg",
+      "price": 21300
+    },
+    {
+      "id": 103,
+      "name": "Head Gasket",
+      "category": "Engine",
+      "description": "A car's head gasket is a seal that sits between the engine block and the cylinder head",
+      "image": "../images/Engine/HeadGasket.jpg",
+      "price": 3500
+    },
+    {
+      "id": 104,
+      "name": "Piston",
+      "category": "Engine",
+      "description": "A car's piston is a cylindrical metal part that moves up and down in the engine's cylinder",
+      "image": "../images/Engine/Piston.jpg",
+      "price": 6200
+    }
+  ],
+  "PartsBody": [
+    {
+      "id": 101,
+      "name": "Brake Cylinder",
+      "category": "PartsBody",
+      "description": "a key component in the braking system that converts the pressure applied by the brake pedal into hydraulic pressure, pushing brake fluid through lines to the wheels, ultimately causing the brakes to engage and slow down the vehicle",
+      "image": "../images/PartsBody/BrakeCylinder.jpg",
+      "price": 2500
+    },
+    {
+      "id": 102,
+      "name": "Brake Disc",
+      "category": "PartsBody",
+      "description": "The brake rotor (disc) which rotates with the wheel, is clamped by brake pads (friction material) fitted to the caliper from both sides with pressure from the piston(s) (pressure mechanism) and decelerates the disc rotation, thereby slowing down and stopping the vehicle.",
+      "image": "../images/PartsBody/BrakeDisc.jpg",
+      "price": 7000
+    },
+    {
+      "id": 103,
+      "name": "Brake Hose",
+      "category": "PartsBody",
+      "description": "A brake hose is a flexible tube that carries brake fluid from the brake line to the brake caliper.",
+      "image": "../images/PartsBody/BrakeHose.jpg",
+      "price": 1200
+    },
+    {
+      "id": 104,
+      "name": "Brake Pad",
+      "category": "PartsBody",
+      "description": "A brake pad in a car is a friction component within the braking system that, when pressed against a rotating brake disc by the caliper, creates friction to slow down or stop the wheel, effectively allowing the car to decelerate when the brake pedal is pressed",
+      "image": "../images/PartsBody/BrakePad.jpg",
+      "price": 900
+    },
+    {
+      "id": 105,
+      "name": "Control Arm",
+      "category": "PartsBody",
+      "description": "A control arm, also known as an A-arm or wishbone, is a hinged link between a car's chassis and the wheel assembly",
+      "image": "../images/PartsBody/ControlArm.jpg",
+      "price": 3500
+    },
+    {
+      "id": 106,
+      "name": "Steering Rack",
+      "category": "PartsBody",
+      "description": "A car's steering rack is a crucial component of the steering system that converts the rotational motion of the steering wheel into linear motion, ",
+      "image": "../images/PartsBody/SteeringRack.png",
+      "price": 13000
+    },
+    {
+      "id": 107,
+      "name": "Steering Tie Rod",
+      "category": "PartsBody",
+      "description": "A steering tie rod is a metal rod that connects the steering gear to the steering knuckle on a car's front wheels.",
+      "image": "../images/PartsBody/steeringTieRod.jpg",
+      "price": 10000
+    },
+    {
+      "id": 108,
+      "name": "Hub Bearing",
+      "category": "PartsBody",
+      "description": "A car's wheel hub bearing is a vital part of the wheel assembly that allows the wheels to turn smoothly.",
+      "image": "../images/PartsBody/WheelHubBearing.jpg",
+      "price": 4200
+    }
+  ],
+  "Wheels": [
+    {
+      "id": 101,
+      "name": "Alloy",
+      "category": "Wheels",
+      "description": "Alloy wheels are car wheels made from a combination of metals, such as aluminum or magnesium, that are lighter and stronger than steel wheels.",
+      "image": "../images/Wheels/Alloy.png",
+      "price": 7000
+    },
+    {
+      "id": 102,
+      "name": "Aluminum",
+      "category": "Wheels",
+      "description": "Aluminum wheels are lightweight, strong, and attractive alloy wheels that are often used on cars. ",
+      "image": "../images/Wheels/Aluminum.jpg",
+      "price": 12000
+    },
+    {
+      "id": 103,
+      "name": "Chrome",
+      "category": "Wheels",
+      "description": "Chrome on cars is a decorative, shiny coating that protects metal parts from corrosion and rust.",
+      "image": "../images/Wheels/Chrome.jpg",
+      "price": 15000
+    },
+    {
+      "id": 104,
+      "name": "Steel",
+      "category": "Wheels",
+      "description": "Steel wheels are car wheels made from steel and are often found on entry-level and older vehicles.",
+      "image": "../images/Wheels/Steel.jpg",
+      "price": 4000
+    }
+  ]
+}
